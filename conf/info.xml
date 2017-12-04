@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon version="0.2">
+	<title xml:lang="ko">게시판 스킨 관리 설명 보기</title>
+	<description xml:lang="ko">게시판 스킨 관리 페이지에서 항상 설명을 보여줍니다.</description>
+	<version>1.0</version>
+	<date>2017-12-05</date>
+
+	<author email_address="admin@wincomi.com" link="https://www.wincomi.com">
+		<name xml:lang="ko">윈컴이</name>
+	</author>
+</addon>
